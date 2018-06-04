@@ -1,0 +1,36 @@
+*{
+    font-family: arial;
+    margin:0;
+    padding:0;
+}
+ul{
+    padding-top:1%;
+}
+li{
+    list-style: none;
+    overflow:hidden;
+    width:35%;
+    height: 50%;
+    margin-left:10%;
+    float:left;
+}
+h1{
+    text-align: center;
+    border-bottom-style: solid;
+    border-width: 0.5px;
+    background:linear-gradient(#104010,#105010,#104010);
+    padding: 2%;
+    color: #bbb;
+}
+h2{
+    color: #104010
+}
+img{
+    width: 170px;
+    height: 120px;
+    float: left;
+    margin-right:1% 
+}
+li div{
+    text-align: justify;
+}
